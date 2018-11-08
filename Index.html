@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width">
+		<title>Soundization</title> 
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<header>
+		<a  href="Index.html" class = "link">Home</a>
+		<a  href="About.html"  class = "link"> Who are we?</a>
+		<h1>Welcome to Soundization</h1>
+	</header>
+	<body>
+		<div class="SearchField">
+		<input type="text" id="InfoInput" placeholder="Search for your favorite Song..."></input>
+		<button id="SButton">Enjoy</button>
+		</div>
+		<div id="Play">
+			<button id="PlayButton"><img src='11.jpg' width=50 height=50>
+			</button>	
+			<a href="https://soundcloud.com/"><img id = "imge" src="1.png" width = 58 height = 58></a>
+		</div>
+		<div id="waves"></div>
+		
+		<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
+		<script src="script.js"></script>
+	</body>
+</html>

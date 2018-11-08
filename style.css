@@ -1,0 +1,100 @@
+body {
+	font-family: "Arial";
+	font-size:35px;
+	background-image: url("92.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	/*background-color: black;*/
+}
+
+header {
+	position:relative;
+	top:0;
+	padding:0;
+	margin:0;
+	text-align: center;
+}
+
+h1 {
+	padding:0;
+	margin:35px;
+	color:white;
+	font-size: 45px;
+}
+
+#SearchField {
+	position:relative;
+	width:100%;
+	text-align: center;
+}
+
+#SButton {
+	background-color: #ff7b25;
+	color: black;
+	width:8%;
+	padding:6px;
+	font-size: 18px;
+}
+
+#SButton:hover {
+	background-color:#80ced6 ;
+	color: black;
+}
+
+#InfoInput {
+	background-image:url("14.png");
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: 31px;
+	font-size: 22px;
+	width:25%;
+	margin-left: 31%;
+	padding:2.5px 33px;	
+}
+
+
+#Play {
+	position:relative;
+	top:30px;
+	left:1%;
+	height:65px;
+	text-align: center;
+}
+
+#PlayButton {
+	background-color:transparent;
+	float:left;
+	margin-left:45%;
+	width:6%;
+	height:5%;
+	padding:5px;
+	border: none;
+	outline: none;
+}
+
+#waves {
+	position:relative;
+	top:0;
+	width:100%;
+	height:550px;
+}
+
+#SVG, #SVG2 {
+	display: block;
+}
+
+.link{
+	font-size: 25px;
+	color: white;
+}
+
+.link:hover{
+	color: red;
+}
+
+#imge{
+	float:left;
+	margin-right:-100px;
+	padding: 1px;
+	outline: transparent;
+}
