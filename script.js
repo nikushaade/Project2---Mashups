@@ -258,7 +258,7 @@ function getSoundData(searchWord) {
 			trackNumber ++;
 
   		}else {
-  			alert("No search results. Please try another track.");
+  			alert("No search results. Please try another song.");
   		}
 	});
 }
