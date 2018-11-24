@@ -24,4 +24,7 @@ References
 For my project I used help from the Web Audio API website, where there were examples on documentation. Moreover, I used Soundcloud and their API for sounds and also W3Schools as reference for some codes. I want to thank Xin Tong as well for providing me with her Client ID for Soundcloud. Stack Overflow was pretty helpful with some issues that I was facing. For images I used general Google images search.
 
 links
-Web Audio API SoundCloud API Stack Overflow W3Schools
+Web Audio API - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API 
+SoundCloud API - https://developers.soundcloud.com/docs/api/guide#authentication
+Stack Overflow - https://stackoverflow.com/questions/44358480/how-to-make-an-audio-play-pause-button
+W3Schools - w3 schools
