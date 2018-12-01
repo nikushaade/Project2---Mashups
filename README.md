@@ -32,3 +32,5 @@ SoundCloud API - https://developers.soundcloud.com/docs/api/guide#authentication
 Stack Overflow - https://stackoverflow.com/questions/44358480/how-to-make-an-audio-play-pause-button
 
 W3Schools - https://www.w3schools.com/
+
+Cynthia's project - https://github.com/CynthiaTong/Mashups-Projects/tree/master/Audio_Wave
